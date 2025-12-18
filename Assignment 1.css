@@ -1,0 +1,53 @@
+h1{
+    color: red;
+}
+
+span.boldyellow{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.heading1{
+    color: rgb(47, 229, 47);
+    font-style: italic;
+}
+
+ol li{
+    margin-top: 18px;
+}
+
+span.line{
+    text-decoration: line-through;
+}
+
+#italic{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+ul li{
+    color: rgb(170, 44, 44);
+    letter-spacing: 5px;
+}
+
+p{
+    color: rgb(170, 44, 44);
+}
+
+#card1{
+    font-size: larger;
+}
+
+#card2{
+    font-size: xx-small;
+}
+
+#card3{
+    font-style: italic;
+}
+
+a{
+    color: rgb(170, 44, 44);
+    background-color: yellow;
+    text-decoration: none; /* to remove the underline due to anchor tag */
+}
